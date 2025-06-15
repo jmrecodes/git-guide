@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/wQJfskkaTpeirUFmPM1EAw/badge)](https://hackmd.io/wQJfskkaTpeirUFmPM1EAw)
 [**&#8592; Back to Table of Contents**](./README.md)
 
 # 5. Working with Remotes

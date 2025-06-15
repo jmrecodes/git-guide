@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/54B2bKw5SViJD3hlrmGAoQ/badge)](https://hackmd.io/54B2bKw5SViJD3hlrmGAoQ)
 [**&#8592; Back to Table of Contents**](./README.md)
 
 # 3. Basic Commands: The Day-to-Day Workflow

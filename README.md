@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/RyuQHZkNQeOZ4r5qyq1k2A/badge)](https://hackmd.io/RyuQHZkNQeOZ4r5qyq1k2A)
 # A Practical Guide to Git
 
 Welcome to this comprehensive guide to Git! Whether you are a beginner just starting your journey in version control or an experienced developer looking to sharpen your skills, this guide is for you.

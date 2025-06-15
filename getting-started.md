@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/CLMgxLqFQkqtnwz871jCFA/badge)](https://hackmd.io/CLMgxLqFQkqtnwz871jCFA)
 [**&#8592; Back to Table of Contents**](./README.md)
 
 # 2. Getting Started with Git

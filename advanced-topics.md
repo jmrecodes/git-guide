@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/jq7siB9kTICS3zLPuIz5Fg/badge)](https://hackmd.io/jq7siB9kTICS3zLPuIz5Fg)
 [**&#8592; Back to Table of Contents**](./README.md)
 
 # 6. Advanced Topics: Rewriting History & More

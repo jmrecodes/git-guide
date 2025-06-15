@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/-VxSRWrHRRC8cLYinf0Blw/badge)](https://hackmd.io/-VxSRWrHRRC8cLYinf0Blw)
 [**&#8592; Back to Table of Contents**](./README.md)
 
 # 4. Branching and Merging
