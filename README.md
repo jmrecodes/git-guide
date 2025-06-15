@@ -46,3 +46,7 @@ My goal is to provide a simplified, streamlined, but complete walkthrough of Git
 ---
 
 Ready to dive in? Start with the [Introduction to Git](./introduction.md).
+
+---
+
+*Last updated: June 10, 2025 | Created with 💙 from the Philippines 🇵🇭 using [Zed](https://zed.dev/), and Gemini 2.5 Pro*
